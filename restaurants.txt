@@ -1,0 +1,5 @@
+Chipotle	Mexican	6
+Saffron	Indian	30
+Qdoba	Mexican	15
+pizza hut	American	15
+Cheese factory	American	25
